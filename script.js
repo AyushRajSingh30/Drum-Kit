@@ -59,7 +59,7 @@ document.addEventListener("keypress", function(e){
 setTimeout(function(){
     activeButton.classList.remove("pressed");
 
-},500)
+},100)
 
     }
 
